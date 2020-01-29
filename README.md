@@ -1,5 +1,5 @@
 # InfoSniffer
-A tool which uses Winsock 2 to explore IP/Hostname resolutions and Port Number/Service Name resolutions with Protocol.
+An IP/Port/Protocol analyzer built in Qt. The application uses Winsock 2 to explore IP/Hostname resolutions and Port Number/Service Name resolutions with Protocol.
 
 To run this program, simply run the executable file in the InfoSniffer folder.
 
